@@ -1,1 +1,2 @@
 # LifeLineIndexPage
+Birinci Slider  birde Awagida  Bubble  Slider var onlari yazmamiwam  ama bilmediyime gore yox Sadece tez getmek istedim  Qalan O biri sliderler Yazilib. Yazmadiqlarimida Yaza Bilerem Hamsi Eyni Mentiqdi.  Butun Javascript Iwlerini  Ozum Native Etdiyime Gore(Bootsrtrap Istifade Olunmyaib) Sliderlerde Responsivlik Yoxdur.  Birde  Map Iwlemir Onun Ucun Api   create Etmek Lazimdi Daha Uzun Cekdi Qaldi  Footer Sectionundada Biraz Design - de Qalib  oda Ele bele Birweydi.
